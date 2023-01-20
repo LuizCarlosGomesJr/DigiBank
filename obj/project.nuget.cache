@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9o2sbxxS02/uz8bYkyT5XSRMzBBtaplmfWDKa6wofhgkdDGoKQUEJZvRZwyF8FBlkkTH0T8kj/PDjX7Xf+WrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz.Gomes\\Desktop\\arquivos\\Curso_Desenvolvimento\\DigiBank\\DigiBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz.Gomes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

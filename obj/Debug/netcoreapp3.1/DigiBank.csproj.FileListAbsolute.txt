@@ -1,0 +1,14 @@
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.exe
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.deps.json
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.runtimeconfig.json
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.runtimeconfig.dev.json
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.dll
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.pdb
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.csproj.AssemblyReference.cache
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.AssemblyInfoInputs.cache
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.AssemblyInfo.cs
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.csproj.CoreCompileInputs.cache
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.dll
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.pdb
+C:\Users\Luiz.Gomes\Desktop\arquivos\Curso_Desenvolvimento\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.genruntimeconfig.cache
